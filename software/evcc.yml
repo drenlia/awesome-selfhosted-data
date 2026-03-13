@@ -10,15 +10,13 @@ platforms:
   - Go
 tags:
   - Internet of Things (IoT)
-stargazers_count: 6011
-updated_at: '2026-01-14'
+stargazers_count: 6249
+updated_at: '2026-03-11'
 archived: false
 current_release:
-  tag: 0.300.3
-  published_at: '2026-01-09'
+  tag: 0.302.1
+  published_at: '2026-03-08'
 commit_history:
-  2025-02: 179
-  2025-03: 194
   2025-04: 159
   2025-05: 166
   2025-06: 127
@@ -28,4 +26,6 @@ commit_history:
   2025-10: 245
   2025-11: 157
   2025-12: 155
-  2026-01: 102
+  2026-01: 213
+  2026-02: 162
+  2026-03: 67

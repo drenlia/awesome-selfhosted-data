@@ -10,15 +10,13 @@ tags:
   - Human Resources Management (HRM)
 source_code_url: https://github.com/Admidio/admidio
 demo_url: https://www.admidio.org/demo/
-stargazers_count: 424
-updated_at: '2026-01-15'
+stargazers_count: 435
+updated_at: '2026-03-11'
 archived: false
 current_release:
-  tag: v5.0.3
-  published_at: '2025-12-21'
+  tag: v5.0.6
+  published_at: '2026-03-07'
 commit_history:
-  2025-02: 150
-  2025-03: 102
   2025-04: 55
   2025-05: 159
   2025-06: 208
@@ -28,4 +26,6 @@ commit_history:
   2025-10: 106
   2025-11: 54
   2025-12: 28
-  2026-01: 19
+  2026-01: 50
+  2026-02: 82
+  2026-03: 17
